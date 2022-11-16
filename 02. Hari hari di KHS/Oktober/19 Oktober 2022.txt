@@ -1,0 +1,6 @@
+19 Oktober 2022
+
+- install kaspersky
+- update data sweping ICT
+- memperbaiki VOIP dari pembelian
+- install dan login pidgin

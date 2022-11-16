@@ -1,0 +1,5 @@
+14 November 2022
+
+- Melakukan pengecekan motherboard yang baru
+- Pengecekan mic di asakai
+- setting runag conference di Asakai

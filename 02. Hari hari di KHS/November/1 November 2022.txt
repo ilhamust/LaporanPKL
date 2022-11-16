@@ -1,0 +1,7 @@
+1 November 2022
+
+- Mengganti IP komputer user dari jaringan local ke jaringan public
+- memperbaiki printer shring yang tidak bisa
+- memperbaiki printer yang tidak bisa menarik kertas
+- menambahkan ukuran kertas di printer lq
+

@@ -1,0 +1,9 @@
+21 Oktober 2022
+
+- Memperbaiki aplikasi yang tidak bisa dibuka pada komputer
+- Menambah disc C pada komputer
+- Install ulang komputer
+- Menambah RAM komputer
+- test kabel VOIP baru
+- install dan connet driver printer lq
+- 

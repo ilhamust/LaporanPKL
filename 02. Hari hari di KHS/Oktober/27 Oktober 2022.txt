@@ -1,0 +1,3 @@
+27 Oktober 2022
+
+- Memperbaiki install paket aplikasi linux yang corupt

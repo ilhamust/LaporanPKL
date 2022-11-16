@@ -1,0 +1,5 @@
+22 Oktober 20222
+
+- Install driver scanner
+- perbaikan file yang tidak bisa di buka dengan aplikasi
+- connet printer

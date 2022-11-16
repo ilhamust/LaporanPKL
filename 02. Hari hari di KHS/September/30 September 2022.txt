@@ -1,0 +1,4 @@
+30 September 2022
+
+- Ambil dongle Solid edge di RRM dan dikirim ke tuksono
+- Releyout jariangan Pembelian subkon

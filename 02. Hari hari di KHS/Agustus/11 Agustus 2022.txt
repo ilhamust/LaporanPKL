@@ -1,0 +1,13 @@
+11 Agustus 2022
+
+- Install Kaspersky
+- cek data detail HP
+- MENAMBAH PARTISI DISK c
+
+Nomor asset : NEC01H1301
+S/N : RR8HB0PAEQK
+Mac : 20:5E:F7:19:B8:EE
+Type HP : Galaxy J7 Prime
+IMEI slot 1 : 354462081098752
+
+607210

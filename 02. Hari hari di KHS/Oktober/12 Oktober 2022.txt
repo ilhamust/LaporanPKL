@@ -1,0 +1,7 @@
+12 Oktober 2022
+
+- Melakukan pengecekan jenis lisensi windows (OEM, OLP, Retail)
+- memasang ldap kontak untuk voip android
+- belajar service printer
+- memasang cctv di ruang hardware
+- belajar setting ip cctv di hardware

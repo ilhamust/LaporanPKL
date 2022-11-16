@@ -1,0 +1,6 @@
+18 Oktober 2022
+
+- melakukan pengecekan komputer ruang server yang mati
+- melakukan perbaikan komputer r server dan memastikan dapat di akses
+- melakukan sweeping ICT atas
+

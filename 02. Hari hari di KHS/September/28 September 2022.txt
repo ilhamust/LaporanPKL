@@ -1,0 +1,8 @@
+28 September 2022
+
+- Configurasi VOIP PC
+- Trial VOIP PC untuk vidio call
+- melakukan pengecekan monitor baru
+- merubah nama pidgin user di openfire
+- checklist install kaspersky
+- install project libre

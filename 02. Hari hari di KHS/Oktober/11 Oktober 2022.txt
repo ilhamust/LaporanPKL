@@ -1,0 +1,6 @@
+11 Oktober 2022
+
+- Memperbaiki shring data yang tidak bisa akses
+- Memperbaiki komputer yang tidak bisa login dan harus di ganti passwordnya.
+- ganti ssd dan install ulan PC
+- install libre ovice dan java jdk 6

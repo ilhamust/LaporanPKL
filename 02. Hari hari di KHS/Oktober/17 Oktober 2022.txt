@@ -1,0 +1,4 @@
+17 Oktober 2022
+
+- Memperbaiki jaringan di komputer akutansi yang putus nyambung
+- memperbaiki voip

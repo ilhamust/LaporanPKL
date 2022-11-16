@@ -1,0 +1,9 @@
+19 September 2022
+
+Mengecek ulang NUC yang di service
+ganti ssd
+membongkar NUC dan membersihkan NUC serta repasta prosesor NUC
+Install aplikasi yang dibutuhkan user di komputer yang sudah di ganti ssd
+revisi WI
+Belajar service Printer
+menyiapkan ruang fishbone untuk penilaina industri 4.0

@@ -1,0 +1,6 @@
+3 November 2022
+
+- install ulang linux mint 21
+- scan virus di NUC pembelian dan mengganti IP ke IP oracle
+- memindahkan komputer server yang sudah di perbaiki ke ruang server lantai 4
+

@@ -1,0 +1,4 @@
+26 Oktober 2022
+
+- Packing printer dikirim ke tuksono
+- Menginstall dirver penaboard dan scan di penaboard di tampilkan di komputer

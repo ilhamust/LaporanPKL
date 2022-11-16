@@ -1,0 +1,6 @@
+2 November 2022
+
+- Packing HP 
+- menambahkan ukuran kertas invoice di printer lq pekan baru 
+- update ram
+- menyiapkan NUC pengadaan

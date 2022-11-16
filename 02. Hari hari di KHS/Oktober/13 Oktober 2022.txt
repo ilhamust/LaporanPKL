@@ -1,0 +1,4 @@
+13 Oktober 2022
+
+- Belajar mandiri mendalami sistem operasi linux
+- Memperbaiki VOIP HP yang tidka bisa di telpon

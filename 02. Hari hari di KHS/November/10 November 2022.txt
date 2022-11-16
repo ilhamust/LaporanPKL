@@ -1,0 +1,7 @@
+10 November 2022
+
+- pemasangan mic dinamis ke mixer dan trial untuk conference
+- merestart komputer server 
+- melakukan pengecekan laptop
+- install ulang komputer server
+- perbaikan laptop

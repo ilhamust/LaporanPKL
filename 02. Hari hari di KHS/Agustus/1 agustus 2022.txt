@@ -1,0 +1,8 @@
+1 Agustus 2022
+- Perbaikan oracle yang tidak bisa di buka karena terproteksi kaspersky
+- monitoring tiket
+- install aplikasi standart My Group
+- backup data hp
+- backup data c komputer
+- service UPS
+- setting ruang meeting pembelian

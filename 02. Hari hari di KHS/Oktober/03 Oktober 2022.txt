@@ -1,0 +1,4 @@
+03 Oktober 2022
+
+- Setting jaringan ruang subkon untuk pembelian supplier
+- ambil data dari http://netmonitoring.quick.com/nagios/

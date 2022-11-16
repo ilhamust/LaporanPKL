@@ -1,0 +1,5 @@
+29 Oktober 2022
+
+- Memperbaiki komputr yang tidak bisa cetak dokumen di printer sharing
+- install driver printer
+- install kaspersky

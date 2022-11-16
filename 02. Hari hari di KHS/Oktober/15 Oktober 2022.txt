@@ -1,0 +1,9 @@
+15 Oktober 2022
+
+- Install Java JDK 
+- mencoba membuka aplikasi oracle di linux 64 bit
+- mengecek komputer di ruang nozomi yang bunyi
+- melakukan perbaikan komputer
+- instalasi jaringan voip
+
+1.8.0_91

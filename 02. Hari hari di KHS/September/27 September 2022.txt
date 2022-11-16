@@ -1,0 +1,7 @@
+27 September 2022
+
+- mempersiapkan laptop untuk pelatihan
+- membongkar laptop
+- mengambil bagian port laptop yang masih bisa digunakan seperti ram dan hardisk
+- mengganti keyboard laptop
+- Memperbaiki Oracle yang tidka bisa untuk print po log

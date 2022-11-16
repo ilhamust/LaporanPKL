@@ -1,0 +1,6 @@
+31 Oktober 2022
+
+- Install aplikasi MY group
+- mengecek NUC pengadaan
+- mengganti IP seksi UP2L agar komputer bisa diremote
+

@@ -1,0 +1,4 @@
+22 September 2022
+- Mengecek peralatan di R. fishbone yang digunakan untuk indi 4.0
+- merekap data downtime jariangan LA dan LDP
+- melakukan pengecekan HDMI to VGA untuk menganti yang bermasalah di runag fishbone 

@@ -1,0 +1,5 @@
+21 September 2021
+- Pengecekan UPS PPB
+- Pengecekan viwer yang blur di ruang meeting detik
+- pengcekan kabel VGA 10M untuk mengganti di r detik
+- merekap data downtime jaringan 
